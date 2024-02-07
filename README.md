@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning Python and Javascript language.
+I'm currently learning Python and Javascript language and looking for learning even more in here and with others experiences. 😄
