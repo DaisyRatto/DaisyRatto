@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm currently learning Python and Javascript programming language and looking for learning even more in here and with others experiences. 😄
+
+Take a look at some of my tests and projects.
