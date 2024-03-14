@@ -1,4 +1,4 @@
-### Hi everyone! Welcome to my account 👋
+### Hi, everyone! Welcome to my account 👋
 
 <!--
 **DaisyRatto/DaisyRatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
